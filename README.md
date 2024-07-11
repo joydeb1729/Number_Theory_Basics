@@ -1,1 +1,1 @@
-These are some Number Theory-related codes I wrote when I started.
+These are some Number Theory-related codes I practiced when I started.
